@@ -1,4 +1,4 @@
-/*Sebuah tempat parkir mengenakan tarif Rp 2.000 per jam untuk 2 jam pertama dan Rp
+/*Sebuah tempat parkir mengenakan taref Rp 2.000 per jam untuk 2 jam pertama dan Rp
 1.000 untuk setiap jam berikutnya. Buatlah program yang meminta input jumlah jam
 parkir, lalu menghitung total biaya parkir*/
 
