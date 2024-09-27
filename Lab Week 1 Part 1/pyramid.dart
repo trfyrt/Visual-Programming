@@ -1,4 +1,4 @@
-import "package:dart_application_1/bubblesort.dart";
+import 'bubblesort.dart';
 
 pyramid(List<int> array, choicePyr) {
   if (choicePyr == "1"){
