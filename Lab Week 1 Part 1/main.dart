@@ -1,7 +1,3 @@
-// aplikasi terminal yang bisa diinput angka
-// generate angka random sebanyak angka yang diinput
-// muncul pilihan, bubble sort, inversi, shuffle
-// waktu eksekusinya berapa detik (per pilihan)
 import 'dart:math';
 import 'dart:io';
 import 'package:dart_application_1/pyramid.dart';
