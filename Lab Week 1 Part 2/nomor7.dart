@@ -27,5 +27,5 @@ void main() {
     }
   }
 
-  print("Urutan tugas: ${urutan.join(' → ')}");
+  print("Urutan tugas: ${urutan.join(' - ')}");
 }
