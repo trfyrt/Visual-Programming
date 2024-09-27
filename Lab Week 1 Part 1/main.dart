@@ -1,6 +1,6 @@
 import 'dart:math';
 import 'dart:io';
-import 'package:dart_application_1/pyramid.dart';
+import 'pyramid.dart';
 
 import "bubblesort.dart";
 
