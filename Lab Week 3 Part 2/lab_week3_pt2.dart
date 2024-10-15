@@ -137,7 +137,7 @@ class Game {
       row.fillRange(0, lebar, ' '); // Mengisi peta dengan spasi
     }
 
-    peta[makanan.y][makanan.x] = '&'; // Menggambar makanan pada peta
+    peta[makanan.y][makanan.x] = '@'; // Menggambar makanan pada peta
 
     List<String> bentukCicak = cicak.bentuk(); // Mendapatkan bentuk cicak
     Point kepala = cicak.badan[0]; // Mendapatkan posisi kepala cicak
